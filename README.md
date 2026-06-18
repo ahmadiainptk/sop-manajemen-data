@@ -4,14 +4,13 @@
 
 Repositori ini mendokumentasikan pedoman manajemen data IAIN Pontianak secara terbuka agar dapat dipelajari, direplikasi, dan diaudit oleh sivitas akademika serta pemangku kepentingan. Pusat Teknologi Informasi dan Data (PTID) bertindak sebagai **Walidata Institusi** yang menjamin integritas data melalui prinsip *Satu Sumber Kebenaran* (*Single Source of Truth*).
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) [![Docs](https://img.shields.io/badge/dokumen-29_file-blue.svg)](#-indeks-dokumen) [![Release v1.0](https://img.shields.io/badge/release-v1.0-success.svg)](../../releases/tag/v1.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) [![Docs](https://img.shields.io/badge/dokumen-30_file-blue.svg)](#-indeks-dokumen) [![Release v1.0](https://img.shields.io/badge/release-v1.0-success.svg)](../../releases/tag/v1.0)
 
 ## Daftar Isi
 
 1. [Tentang Pedoman](#-tentang-pedoman)
 2. [Prinsip Utama](#-prinsip-utama)
 3. [Indeks Dokumen](#-indeks-dokumen)
-   - Bab 1 s.d. Bab 8 + Lampiran
 4. [Struktur Repositori](#-struktur-repositori)
 5. [Berkontribusi](#-berkontribusi)
 6. [Lisensi](#-lisensi)
@@ -40,7 +39,7 @@ Sasaran akhir: ekosistem *Data-Driven Decision Making* yang transparan, akuntabe
 
 ## 📚 Indeks Dokumen
 
-Seluruh dokumen tersusun dalam **8 bab** ditambah **Lampiran** materi praktikum. Total ada **29 file Markdown** dalam repositori ini.
+Seluruh dokumen tersusun dalam **8 bab** ditambah **Lampiran** materi praktikum. Total ada **30 file Markdown** dalam repositori ini.
 
 ### Bab 1. Pendahuluan
 
@@ -119,13 +118,14 @@ _Kesimpulan & pemberlakuan, serta sanksi & ketentuan peralihan._
 
 ### Bab 8. Lampiran
 
-_Silabus praktikum, rencana pembelajaran & tugas, serta template tugas praktikum._
+_Silabus praktikum, rencana pembelajaran & tugas, template tugas praktikum, dan panduan instalasi perangkat lunak._
 
 | # | Dokumen | Ringkasan |
 | ---: | --- | --- |
 | 01 | [`08-lampiran/01-silabus-praktikum-manajemen-data.md`](./08-lampiran/01-silabus-praktikum-manajemen-data.md) | Mengingat Buku Pedoman Manajemen Data IAIN Pontianak ini memiliki substansi teoritis dan teknis yang padat, buku ini sangat ideal untuk diadaptasi menjadi bahan ajar (Silabus Praktikum) untuk mata... |
 | 02 | [`08-lampiran/02-rencana-pembelajaran-dan-tugas.md`](./08-lampiran/02-rencana-pembelajaran-dan-tugas.md) | Dokumen ini merupakan turunan operasional dari Silabus Praktikum Manajemen Data. Di dalamnya memuat panduan langkah pengajaran (*Lesson Plan*) bagi dosen/instruktur, serta contoh bentuk serahan (*d... |
 | 03 | [`08-lampiran/03-template-tugas-praktikum.md`](./08-lampiran/03-template-tugas-praktikum.md) | Dokumen ini berisi standar kerangka kerja (*template*) yang harus diikuti oleh mahasiswa saat mengumpulkan hasil tugas praktikum agar format penyerahan (*deliverables*) menjadi seragam dan mudah di... |
+| 04 | [`08-lampiran/04-panduan-instalasi-perangkat-lunak.md`](./08-lampiran/04-panduan-instalasi-perangkat-lunak.md) | Untuk menunjang kelancaran praktikum Manajemen Data, asisten laboratorium atau mahasiswa secara mandiri perlu menyiapkan lingkungan kerja (*environment*) pada komputer masing-masing. |
 
 > 📁 Struktur folder lengkap dengan deskripsi tiap file tersedia di [`Struktur.md`](./Strruktur.md).
 

@@ -47,7 +47,8 @@ File Struktur.md berhasil dibuat.
 └── 08-lampiran/
     ├── 01-silabus-praktikum-manajemen-data.md
     ├── 02-rencana-pembelajaran-dan-tugas.md
-    └── 03-template-tugas-praktikum.md
+    ├── 03-template-tugas-praktikum.md
+    └── 04-panduan-instalasi-perangkat-lunak.md
 
 ```
 
@@ -107,3 +108,4 @@ File Struktur.md berhasil dibuat.
 * `01-silabus-praktikum-manajemen-data.md`: Modul implementasi setara 24 pertemuan praktikum (Mencakup Excel, Python, Google Colab, AI, Scraping, API, dan Visualisasi Looker Studio) yang dapat digunakan dosen untuk mata kuliah Manajemen Data.
 * `02-rencana-pembelajaran-dan-tugas.md`: Penjelasan langkah demi langkah pedagogi di kelas beserta contoh konkret *deliverables* (hasil tugas) yang harus diselesaikan oleh mahasiswa pada setiap modul.
 * `03-template-tugas-praktikum.md`: Kerangka kerja baku (*template*) yang mengatur format penyerahan tugas (seperti kerangka Excel, susunan kode Colab, dan kerangka artikel publikasi).
+* `04-panduan-instalasi-perangkat-lunak.md`: Direktori tautan resmi (*official links*) dan instruksi penyiapan lingkungan kerja (*environment setup*) untuk perangkat lunak yang digunakan dalam praktikum (RStudio, Postman, Colab, Looker Studio).
